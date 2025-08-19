@@ -1,8 +1,24 @@
 {
   "1400986527596810290": [
     {
-      "tooltip": "read if cute",
-      "badge": "https://badges.vencord.dev/badges/343383572805058560/1-8c34efc6c4c13e0f4daa6502e963684680a09ac0.gif"
+      "tooltip": "Discord Bot Dev",
+      "badge": "https://raw.githubusercontent.com/codedfusi/Larp-vencord-badges/refs/heads/main/mybadges/discordbotdev.png"
+    },
+    {
+      "tooltip": "Discord Boost Level 9",
+      "badge": "https://raw.githubusercontent.com/codedfusi/Larp-vencord-badges/refs/heads/main/mybadges/discordboost9.png"
+    },
+    {
+      "tooltip": "Discord Bug Hunter Level 1",
+      "badge": "https://raw.githubusercontent.com/codedfusi/Larp-vencord-badges/refs/heads/main/mybadges/discordbughunter1.png"
+    },
+    {
+      "tooltip": "Discord Early Supporter",
+      "badge": "https://raw.githubusercontent.com/codedfusi/Larp-vencord-badges/refs/heads/main/mybadges/discordearlysupporter.png"
+    },
+    {
+      "tooltip": "Discord Partner",
+      "badge": "https://raw.githubusercontent.com/codedfusi/Larp-vencord-badges/refs/heads/main/mybadges/discordpartner.png"
     }
   ]
 }
